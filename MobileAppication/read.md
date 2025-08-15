@@ -1,0 +1,10 @@
+- Recycler View
+ - Model
+ - Card
+ - Adapter
+   - ViewHolder
+   - Extend Recycler View
+   - Bind
+   - On Create
+ - Call Adapter
+   - LayoutManager
